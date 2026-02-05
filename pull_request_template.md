@@ -11,7 +11,7 @@ By default Github will place your commit message here (which should answer the a
 
 (eg. Majority of LOC changes were prettier. Specific file to look at is package.json)
 
-#### Screenshots
+#### Testing / Screenshots
 
 (eg. _A picture is worth 1000 words..._)
 
