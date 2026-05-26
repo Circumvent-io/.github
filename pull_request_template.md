@@ -9,9 +9,9 @@ By default Github will place your commit message here (which should answer the a
 
 #### Risk Assessment
 
-- **Low**: Minor tweaks, docs, or small refactors; no obvious known risks.
-- **Moderate**: Feature additions or logic updates. *(Jira ticket required)*
-- **High**: Core architectural shifts, database migrations, or breaking changes. *(Jira ticket required)*
+- *Low: Minor tweaks, docs, or small refactors; no obvious known risks.*
+- *Moderate: Sizeable feature additions or logic updates. (Jira ticket required)*
+- *High: Core architectural shifts, database migrations, or breaking changes. (Jira ticket required)*
 
 **Risk level:** (Low | Moderate | High)
 
