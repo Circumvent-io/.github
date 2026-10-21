@@ -1,33 +1,30 @@
 <!--
-Describe the changes being made. Focus on the WHY ("why" are these changes being made rather than "what" the changes are).
-(eg. Introduces prettier so that we stop debating semantics and automatically enforce code style :D)
-Keep it short: a sentence or a few bullets.
-
-By default Github will place your commit message here (which should answer the above already).
+Why is this change needed? Say what problem it solves or what it enables, not what changed.
+Add only if it helps a reviewer:
+- Ticket or related pull request
+- Trade-offs or decisions made
+- Follow-ups left out of this change
+The commit message fills this in by default.
 -->
 
 ---
 
 #### Risk Assessment
 
-<!--
-Low: Minor tweaks, docs, or small refactors; no obvious known risks.
-Moderate: Sizeable feature additions or logic updates. (Jira ticket required)
-High: Core architectural shifts, database migrations, or breaking changes. (Jira ticket required)
-
-Add one or two lines of context for Moderate and High risk changes.
--->
-
 **Risk level:** (Low | Moderate | High)
+- Low: minor tweaks, docs or small refactors; no known risks
+- Moderate: sizeable features or logic changes (Jira ticket required)
+- High: architecture shifts, database migrations or breaking changes (Jira ticket required)
+- Moderate or High: add one or two lines of context
 
 #### Notes to reviewers
 
-<!-- Optional: delete this section if there is nothing to add. (eg. Majority of LOC changes were prettier. Specific file to look at is package.json) -->
+- _Optional: where to look, or what is noise (e.g. most LOC changes are prettier)_
 
 #### Test Plan / Test Evidence / Screenshots
 
-<!-- What you verified and how. (eg. _A picture is worth 1000 words..._) -->
+- _What you verified and how (e.g. a picture is worth 1000 words)_
 
 #### Related PR's
 
-<!-- Optional: delete this section if there are none. (eg. https://github.com/Circumvent-io/.github/pull/1) -->
+- _Optional: links to related pull requests_
