@@ -1,4 +1,6 @@
 <!--
+In every section, use bullet points and write succinctly.
+
 Why is this change needed? Say what problem it solves or what it enables, not what changed.
 Add only if it helps a reviewer:
 - Ticket or related pull request
