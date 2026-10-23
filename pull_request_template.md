@@ -4,7 +4,7 @@ Describe the changes being made. Focus on the WHY ("why" are these changes being
 
 By default Github will place your commit message here (which should answer the above already).
 
-Agents: generate this preamble with the `show-me` skill.
+Pull request authors: write this preamble by reading ~/.claude/skills/show-me/SKILL.md in place and following it, skipping its HTML step. Keep the template sections below, filled in.
 -->
 
 ---
