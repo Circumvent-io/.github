@@ -3,6 +3,8 @@ Describe the changes being made. Focus on the WHY ("why" are these changes being
 (eg. Introduces prettier so that we stop debating semantics and automatically enforce code style :D)
 
 By default Github will place your commit message here (which should answer the above already).
+
+Agents: generate this preamble with the `show-me` skill.
 -->
 
 ---
