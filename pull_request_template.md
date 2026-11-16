@@ -5,6 +5,10 @@ Describe the changes being made. Focus on the WHY ("why" are these changes being
 By default Github will place your commit message here (which should answer the above already).
 -->
 
+#### Why / Motivation / Problem
+
+(eg. What problem does this solve, and why does it need doing now? Link the issue or ticket if there is one.)
+
 ---
 
 #### Risk Assessment
