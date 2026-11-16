@@ -1,11 +1,10 @@
-<!--
-Describe the changes being made. Focus on the WHY ("why" are these changes being made rather than "what" the changes are).
-(eg. Introduces prettier so that we stop debating semantics and automatically enforce code style :D)
-
-By default Github will place your commit message here (which should answer the above already).
--->
-
 #### Why / Motivation / Problem
+
+<!--
+Explain why these changes are needed rather than what they change (eg. Introduces prettier so that we stop debating semantics and automatically enforce code style :D).
+
+By default GitHub places a single commit's message above this template. Move that message under this heading if it answers the above.
+-->
 
 (eg. What problem does this solve, and why does it need doing now? Link the issue or ticket if there is one.)
 
